@@ -14,5 +14,5 @@ print(plain)
 
 #    Changes a full hex string to an ascii string
 def hexStringToString(hexString):
-
+    temp = hexString(1)
     return hexString
