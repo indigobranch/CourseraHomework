@@ -1,3 +1,3 @@
-__author__ = 'miranda'
+__author__ = 'Nels Larsen'
 
-print('hello world')
+print('hello')
