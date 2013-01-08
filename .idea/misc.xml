@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="IdProvider" IDEtalkID="2DE1DB51E7F9BA9BACC0690A531AD8FC" />
+  <component name="ProjectKey">
+    <option name="state" value="git@github.com:indigobranch/CourseraHomework.git" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
 </project>
 
